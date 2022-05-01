@@ -1,4 +1,4 @@
-{{/* vim: set filetype=teapod: */}}
+{{/* vim: set filetype=js: */}}
 {{/*
 Expand the name of the chart.
 */}}
