@@ -26,7 +26,6 @@ usage() {
 
 version() {
 	echo "${myname} (pacman) ${myver}"
-	echo "Copyright (c) 2009 Matthew Bruenig <matthewbruenig@gmail.com>."
 	echo
 	echo "This is free software; see the source for copying conditions."
 	echo "There is NO WARRANTY, to the extent permitted by law."
